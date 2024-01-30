@@ -1,0 +1,16 @@
+FDS Practical:
+
+Group A
+1 2 4 5 
+ Group B
+11(a,b)  14 16 
+
+Group C
+19  20 21 
+
+Group D
+ 25  27
+
+Group E
+29  31
+
